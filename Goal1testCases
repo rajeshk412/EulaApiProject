@@ -1,0 +1,50 @@
+1. Verify chatbox is available on the right corner botton of the page
+2. Verify the message 'Hi there 👋 Thanks for visiting Amwell! Want to hear a secret?' is displayed upon clicking the chatbox and below options are displayed
+	2.1. I love secrets! What is it?
+	2.2 No thanks, I'm just poking around.
+3. Verify clicking on cancel button closes the chat window
+4. Verify there is an water mark text displayed when the chat window is opened as ' choose an option above' and it should be non clickable
+5. Verify the current user time is displayed on the middle part at the starting
+6. Verify the chatbox responds with below messages when ' I love secrets! What is it?' is clicked
+	6.1.Amwell was ranked #1 in the J.D. Power 2020 U.S. Telehealth Satisfaction Study!  🏆 Specifically for the best direct-to-consumer consultation, enrollment, billing and payment.
+	6.2.Want to learn how Amwell can help you?
+	6.3 Sure and may be later user action buttons displayed 
+7. Verify the above messages are displayed with the time stamp
+8. Verify the below messages are displayed when clicked on ' Sure option from the above messages'
+	8.1 No problem!
+	8.2 It would help if I knew a little more about you. What type of organization do you work for?
+	8.3 Health plan, Health system , Private practice, Government options to select
+
+9. Verify the below messages are displayed when ' Health plan' is clicked
+	9.1 What type of plan are you seeking solutions for? 
+	9.2 Commercial, Medicare, Medicaid and Multiple options to select
+10. Verify the below messages are displayes when clicked on ' Commercial'
+	10.1. How many members do you have?
+	10.2 Over 100000 and under 100000
+11. verify the message from amway is displayed as below when over 100000 is selected
+	11.1 Let's find an Amwell representative who can help answer your questions and provide you with additional information.
+	11.2 In case we get disconnected, what it the best email address to reach you?
+	11.3 Text box should be enabled to enter the email id with an option to attach teh filed and GIF messages
+12. Verify when the user enters first character / uploads the file send button is enabled 
+13. Verify the error messages shown from amway stating ' Sorry, that address does not look right. Please try again.  ' when entered email is wrong or incorrect format of file uploaded and message ' In case we get disconnected, what it the best email address to reach you? '
+14. Verify the message ' Looks like a personal email address. Please provide your work email address. ' is displayed when correct email is entered but its of personal email id.
+15. Verify that there is no option to go back the only option is closing the browser or by reloading the page
+16. Verify the below message are displyed when clicked on ' No thanks, I'm just poking around.'
+	16.1 No problem!
+	16.2 Maybe I can help you find what you're looking for?
+	16.3 I/m exploring sols, To see a doctor, I need product support, im analyst
+17. Verify the below options are displayed when ' Im exploring sols'
+	17.1 Health plan, Health system , Private practice, Government options to select
+18. Verify the below options when ' To see a doctor' is clicked
+	18.1 Please wait link wiht health care options are displaeyed
+19. Verify upon clicking the link it is taking to correct page other than blank
+20. Verify the chatbox window statys even after scrolling up and down 
+21. Verify the below messages are displayed when clicked on ' May be later'
+	21.1 No problem!
+	22.2 Maybe I can help you find what you're looking for?
+	23.3 I/m exploring sols, To see a doctor, I need product support, im analyst
+22. Verify upon page refresh the chatbox messages are preserved or the chatting will start from first
+23. Verify if there is an intereption and again we are able to resume where we left
+
+
+
